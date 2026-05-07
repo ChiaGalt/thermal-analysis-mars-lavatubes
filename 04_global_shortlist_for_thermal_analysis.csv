@@ -1,0 +1,295 @@
+label,longitude,latitude,TypeCode,Priority,APC_Diameter,APC_Depth,APC_Diameter_numeric,elevation,APC_Depth_numeric,morphology_score,themis_tile,themis_quantitative_product_name,Comment
+CC0221,239.6554,-11.51587,sky,0,,,,11526.07097894334,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight off Arsia south flank
+CC0253,248.4829,3.75879,sky,0,,,,5432.76359531329,,5.0,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Famous pit-floor cave on Pavonis
+CC0256,250.5591,6.30237,sky,0,,,,4617.486193366982,,5.0,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Lavatube impact NW
+CC0257,250.5629,6.29941,sky,0,,,,4620.675722883154,,5.0,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Lavatube impact SE
+CC0272,348.9619,34.21344,sky,0,,,,-4685.077564118701,,5.0,30N300E,THEMIS Thermal Inertia Mosaic Quantitative 30N300E 100mpp,Tube?
+CC0274,242.1563,-2.37024,sky,0,,,,7043.448118785054,,5.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,Line of trench pits
+CC0275,242.1466,-2.33789,sky,0,,,,7033.465931195207,,5.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,Trench pit
+CC0276,242.2905,-2.48511,sky,0,,,,7085.194926787617,,5.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,Trench pit
+CC0304,236.3029,-1.41553,sky,0,,,,4256.461743221204,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0305,236.4304,-1.38672,sky,0,,,,4291.38103348613,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0306,236.4329,-1.38782,sky,0,,,,4291.826795984031,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0307,236.4423,-1.39038,sky,0,,,,4293.121107918255,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0308,236.4658,-1.42175,sky,0,,,,4308.4398638010425,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0348,236.3306,0.59424,sky,0,,,,4236.456554093951,,5.0,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,Skylight
+CC0480,241.8828,-2.27867,sky,0,,,,6995.788436311002,,5.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,Small fracture skylight
+CC0481,241.8877,-2.27881,sky,0,,,,6995.869033556799,,5.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,Large fracture skylight
+CC0482,241.9834,-2.27173,sky,0,,,,7006.883214338085,,5.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,Largest fracture skylight
+CC0729,161.5894,7.21852,sky,0,,,,-2658.6921581200386,,5.0,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,possible bridge over channel
+CC0774,236.1148,-3.14771,sky,0,,,,4560.08645535799,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0775,236.0798,-3.08081,sky,0,,,,4547.442085513359,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0776,236.0749,-3.0733,sky,0,,,,4545.256094899753,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0777,236.0728,-3.0528,sky,0,,,,4540.051837367016,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0778,236.0729,-3.04926,sky,0,,,,4538.574150329942,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0779,236.0719,-3.04401,sky,0,,,,4535.956203274758,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0780,236.0627,-3.00909,sky,0,,,,4509.380278188093,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0781,236.0446,-2.99792,sky,0,,,,4499.525345783648,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0782,236.04,-2.99756,sky,0,,,,4498.481983681395,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0783,236.0365,-2.99695,sky,0,,,,4497.57799338245,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0784,236.0146,-2.93555,sky,0,,,,4478.883806619745,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0785,235.9832,-2.91675,sky,0,,,,4473.990267066917,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0786,235.9755,-2.91278,sky,0,,,,4469.38450073459,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0787,235.9736,-2.89459,sky,0,,,,4462.514814668724,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0788,235.9763,-2.88922,sky,0,,,,4462.095413208289,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0789,235.9979,-2.85663,sky,0,,,,4451.851312428005,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0790,235.968,-2.86755,sky,0,,,,4453.576426543431,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0791,235.9623,-2.85175,sky,0,,,,4446.215376995204,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0792,235.9459,-2.83087,sky,0,,,,4438.65555259696,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0804,239.5204,-11.74243,sky,0,,,,11381.32242850867,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,small 30m skylight in old pit chain
+CC0805,239.0983,-11.34962,sky,0,,,,11986.072370954598,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,small skylight
+CC0806,239.1036,-11.3175,sky,0,,,,12036.115746787094,,5.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,small skylight
+CC0899,232.8965,0.37598,sky,0,,,,2830.7098199079323,,5.0,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,Cave / natural bridge near Biblis Patera
+CC0900,232.8984,0.37378,sky,0,,,,2832.284263687021,,5.0,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,Cave / natural bridge near Biblis Patera
+CC0211,235.8737,-3.81203,sky,1,,,,4639.5601962456485,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Tube skylight at base of NW Arsia
+CC0214,238.7192,-3.53171,sky,1,,,,6039.045826455621,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,good 20m tube skylight
+CC0220,233.086,-0.09179,sky,1,,,,3013.597984370952,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,candidate tube skylight
+CC0222,239.065,-13.32391,sky,1,,,,10217.570754534125,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,initial surface breach?
+CC0223,234.3142,-11.47247,sky,1,,,,6107.625429280364,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,inflated flow skylight candidate --
+CC0224,236.9274,-4.07337,sky,1,,,,5126.175533942026,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight pair (srp?) - Arsia off flank
+CC0225,236.9281,-4.07527,sky,1,,,,5126.32389243622,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight pair (srp?) - Arsia off flank
+CC0228,236.2019,-3.25931,sky,1,,,,4615.827636222175,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0229,236.2041,-3.26335,sky,1,,,,4618.726648635888,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0233,236.213,-3.27304,sky,1,,,,4626.143787772223,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0236,236.2371,-3.2932,sky,1,,,,4637.594518539652,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0237,236.2495,-3.30621,sky,1,,,,4646.721274797004,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0238,236.2612,-3.30982,sky,1,,,,4651.07367167055,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0241,236.2839,-3.36976,sky,1,,,,4683.269238956417,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0242,236.2884,-3.37601,sky,1,,,,4688.848817899903,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0249,236.339,-3.49398,sky,1,,,,4738.836814890964,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0250,236.3663,-3.5139,sky,1,,,,4748.586335383874,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0254,243.448,17.93182,sky,1,,,,2327.756061438456,,4.6,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Possible vent hole with attached tube or dike
+CC0255,240.8051,0.83864,sky,1,,,,4968.892240453352,,4.6,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,skylight as wide as channel in flood lavas
+CC0259,242.5594,7.67303,sky,1,,,,3317.930091788716,,4.6,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Graben-edge 170x300m pit with strong overhang
+CC0265,248.8112,-3.67224,sky,1,,,,6908.91712945055,,4.6,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,Skylight in channel
+CC0270,248.0475,-8.22035,sky,1,,,,7073.250957500058,,4.6,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,Tube skylight pair
+CC0271,248.0475,-8.22235,sky,1,,,,7073.879486645192,,4.6,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,Tube skylight pair
+CC0273,248.6138,-2.17212,sky,1,,,,6802.667967926399,,4.6,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,hole in top of cone
+CC0277,249.978,-1.39307,sky,1,,,,6153.23744885785,,4.6,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,skylight
+CC0278,250.1003,-0.28812,sky,1,,,,5873.214461556849,,4.6,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,skylight
+CC0281,259.4139,3.17889,sky,1,,,,4509.503227245932,,4.6,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Deep hole in channel
+CC0288,231.8906,-0.93933,sky,1,,,,2749.512975703512,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Lateral tube skylight
+CC0292,235.5515,0.7771,sky,1,,,,3921.1734401808953,,4.6,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,Solid looking lava tube skylight
+CC0299,236.1482,-1.46228,sky,1,,,,4203.025792670121,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0300,236.2094,-1.47205,sky,1,,,,4223.7916780913465,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0301,236.1982,-1.47437,sky,1,,,,4220.43828103926,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0302,236.2322,-1.47644,sky,1,,,,4233.6097915483415,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0303,236.245,-1.46997,sky,1,,,,4237.529370143804,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Skylight
+CC0323,236.7699,-0.46796,sky,1,,,,4318.323512301442,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0324,236.741,-0.4765,sky,1,,,,4312.961520276891,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0331,237.3424,-2.60449,sky,1,,,,4951.6872265698585,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0344,235.9563,-1.45911,sky,1,,,,4138.314176043674,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0345,235.9785,-1.46143,sky,1,,,,4146.314552203746,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0346,236.0981,1.3894,sky,1,,,,4272.04267317481,,4.6,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,skylight
+CC0349,236.5813,-0.4447,sky,1,,,,4296.904883486912,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0353,236.5744,-1.49963,sky,1,,,,4365.557700917484,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0358,236.9183,-2.82141,sky,1,,,,4769.593676441859,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0362,236.6997,-0.74756,sky,1,,,,4308.22017385591,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,inflated flow skylight
+CC0368,234.6502,0.34631,sky,1,,,,3554.439232236821,,4.6,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,Small rimless pit
+CC0387,234.6398,0.97668,sky,1,,,,3488.710786634146,,4.6,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,skylight
+CC0389,234.7289,0.49,sky,1,,,,3607.615823031552,,4.6,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,skylight
+CC0390,234.7329,0.49048,sky,1,,,,3608.748927907396,,4.6,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,skylight
+CC0394,234.8965,-0.30908,sky,1,,,,3740.3144684624376,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0403,235.1892,-3.13107,sky,1,,,,4227.177953051297,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0407,235.4607,-3.27222,sky,1,,,,4382.545413507402,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0409,235.3469,-3.20654,sky,1,,,,4329.017474935015,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0414,234.2354,0.53979,sky,1,,,,3379.619281718652,,4.6,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,skylight
+CC0415,234.239,0.54199,sky,1,,,,3381.8172171236943,,4.6,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,skylight
+CC0420,234.4329,-0.24756,sky,1,,,,3577.8056431674668,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0430,234.2665,-0.12085,sky,1,,,,3506.193585574687,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0432,234.2064,-0.10571,sky,1,,,,3476.835893965871,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0433,234.2047,-0.10559,sky,1,,,,3476.3389653281256,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0434,234.202,-0.10547,sky,1,,,,3475.516225929465,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0435,234.2015,-0.09424,sky,1,,,,3474.01374530076,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0436,234.1965,-0.08777,sky,1,,,,3470.616921312751,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0439,234.1831,-0.03943,sky,1,,,,3441.378948978293,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0457,234.4155,-0.65698,sky,1,,,,3552.675906251575,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0461,234.3179,-1.01831,sky,1,,,,3556.3124786105136,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0462,234.3457,0.06494,sky,1,,,,3469.7348202142325,,4.6,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,skylight
+CC0463,234.3471,0.06494,sky,1,,,,3470.2342366918406,,4.6,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,skylight
+CC0464,237.8108,-2.43874,sky,1,,,,5107.816303160974,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight
+CC0465,238.2277,-2.20355,sky,1,,,,5259.0211070116,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight with no visible tube
+CC0466,238.222,-2.20309,sky,1,,,,5254.245631875751,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,skylight with no visible tube
+CC0476,242.3015,-17.15987,sky,1,,,,6348.595847296966,,4.6,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,skylight
+CC0744,234.4674,0.44656,sky,1,,,,3498.8483076275947,,4.6,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,Channel skylight
+CC0753,234.7696,-2.49557,sky,1,,,,3993.315991443646,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"channel tube intersection, bridge?"
+CC0754,234.7678,-2.49548,sky,1,,,,3992.6220976009154,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"channel tube intersection, bridge?"
+CC0793,235.9332,-2.82233,sky,1,,,,4433.8572465877005,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0794,236.1744,-3.21838,sky,1,,,,4598.005876125818,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0795,236.1613,-3.2041,sky,1,,,,4592.099063999354,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0796,236.1519,-3.1969,sky,1,,,,4589.008662474458,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0797,236.1465,-3.18884,sky,1,,,,4586.0846088042135,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0798,236.1458,-3.18738,sky,1,,,,4585.507188096894,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0799,236.1454,-3.18506,sky,1,,,,4584.751179265574,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0800,236.1448,-3.18359,sky,1,,,,4584.073096991634,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0801,236.1339,-3.16638,sky,1,,,,4573.089576644511,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0802,236.1231,-3.15637,sky,1,,,,4564.819870269137,,4.6,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,tube skylight
+CC0929,242.9741,-0.26598,sky,1,,,,6403.049278614051,,4.6,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,"pair of 60-m pits in flow, 1km apart"
+CC0930,242.9604,-0.27606,sky,1,,,,6412.27493938701,,4.6,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,"pair of 60-m pits in flow, 1km apart"
+APC016,243.0341,-4.20642,APC,0,55,35.0,55.0,8027.260542565733,35.0,4.4,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC - deep - 60m >.65 d/D
+APC045,237.8282,-2.04173,APC,0,95,67.0,95.0,4971.375411079701,67.0,4.4,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Probably Type I
+APC061,240.9015,-7.17221,APC,0,119,55.0,119.0,12331.8017115082,55.0,4.4,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC nochain
+APC073,245.89,-16.33,APC,0,150,50.0,150.0,6285.005343999995,50.0,4.4,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC
+APC074,239.22,-13.94,APC,0,180,46.0,180.0,9509.23257600005,46.0,4.4,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC075,241.3931,-5.5332,APC,0,165,345.0,165.0,9963.4134845422,345.0,4.4,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC ~ Jeanne
+APC079,240.04,-14.28,APC,0,175,84.0,175.0,8713.321023999968,84.0,4.4,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC in chain b=164
+APC085,247.5515,17.28099,APC,0,200,59.0,200.0,2152.857214178768,59.0,4.4,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Fanpit B
+APC094,259.3536,24.76974,APC,0,350,128.0,350.0,2195.8327341688705,128.0,4.4,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Tractus3
+APC095,259.3452,26.16333,APC,0,375,183.0,375.0,2076.0663633813338,183.0,4.4,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Tractus1
+APC098,245.85,-16.25,APC,0,150,50.0,150.0,6294.999999999997,50.0,4.4,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC
+APC099,242.5299,-17.46004,APC,0,215,151.0,215.0,6246.219900192177,151.0,4.4,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC
+APC104,238.6571,-6.36218,APC,0,130,57.0,130.0,10432.235361462155,57.0,4.4,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC121,259.3264,25.23291,APC,0,425,185.0,425.0,2182.7129640973462,185.0,4.4,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Tractus2
+APC129,231.8792,-2.09052,APC,0,230,105.0,230.0,2869.4638454255155,105.0,4.4,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Outstandingly perfect Type II APC
+APC131,239.25,-13.52,APC,0,170,31.0,170.0,9933.18000000007,31.0,4.4,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC132,242.42,-4.28,APC,0,130,20.0,130.0,8280.270623999946,20.0,4.4,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC - Shallow or filled-in? Possible rim overhang
+APC140,252.2473,-4.35956,APC,0,135x195,91.0,,6564.679098917387,91.0,4.4,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,Notcis Labyrinth APC - deep; overhang
+APC141,225.4586,-24.78119,APC,0,110,35.0,110.0,2166.3671476752006,35.0,4.4,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,SW Daedalia APC
+APC001,240.4585,-0.94678,APC,1,25,32.0,25.0,5845.516289233242,32.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC -- tiny ~25m
+APC003,237.696,-12.47266,APC,1,30,47.0,30.0,10500.439388911564,47.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC 40m small deep nochain--big smrp?
+APC005,240.8867,-5.68445,APC,1,30,17.0,30.0,10144.570833539166,17.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC deep pair
+APC006,240.9421,-1.61377,APC,1,40,38.0,40.0,6446.1238035272045,38.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC small deep?
+APC007,241.2993,-1.68555,APC,1,40,28.0,40.0,6610.563531326868,28.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,"APC, deep? ~40m"
+APC008,241.7492,-6.64679,APC,1,40,50.0,40.0,11017.000076035192,50.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC deep
+APC009,244.2588,-1.28809,APC,1,40,45.0,40.0,7473.616109916817,45.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC ~ small deep
+APC010,241.3897,-2.71338,APC,1,45,30.0,45.0,7119.52897428515,30.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,"APC, deep ~45m"
+APC011,243.2452,-4.50244,APC,1,45,34.0,45.0,8169.741556585549,34.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC irregular 119x45
+APC012,244.2749,-1.08203,APC,1,45,48.0,45.0,7445.583566224261,48.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,"APC ~ small deep, faint graben?"
+APC013,244.2788,-1.12158,APC,1,45,50.0,45.0,7456.469775340143,50.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,"APC ~ small deep, faint graben?"
+APC014,236.3418,-13.89099,APC,1,50,75.0,50.0,8453.541676423309,75.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC nochain deep
+APC015,243.7466,-6.17554,APC,1,75,66.0,75.0,8301.647090930612,66.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,"APC - deep, ~ 75x55m"
+APC017,243.372,-5.88489,APC,1,55,33.0,55.0,8819.19053829606,33.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC deep
+APC018,236.7605,-13.86035,APC,1,60,85.0,60.0,9051.112557001828,85.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC irregular nochain deep
+APC020,240.5234,-1.05363,APC,1,70,53.0,70.0,5938.9164015290735,53.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,CTX images not very clear.
+APC021,241.0972,-1.57715,APC,1,60,44.0,60.0,6485.345144219414,44.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,"APC, deep"
+APC022,242.085,-2.86392,APC,1,65,31.0,65.0,7257.002729449308,31.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,Small APC probably Type II
+APC023,242.63,-5.29,APC,1,60,46.0,60.0,9270.492543999924,46.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC
+APC024,245.7545,11.83345,APC,1,60,27.0,60.0,2386.385485810375,27.0,4.0,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,50m half-filled APC?
+APC025,250.1067,4.13696,APC,1,60,88.0,60.0,5096.021170347309,88.0,4.0,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,APC -- Deep d/D > 1.4
+APC026,257.1238,12.6433,APC,1,60,48.0,60.0,10708.2577836794,48.0,4.0,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Ascraeus NE flank 60m APC in chain with largers
+APC027,235.1852,0.87524,APC,1,65,96.0,65.0,3751.670490362704,96.0,4.0,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,APC deep nochain
+APC028,236.3438,-21.41626,APC,1,65,49.0,65.0,4000.916280071799,49.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"APC,  AA"
+APC029,240.723,-18.73004,APC,1,65,80.0,65.0,5734.65306525899,80.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC deep nochain
+APC030,240.895,-5.68079,APC,1,65,38.0,65.0,10146.971424836176,38.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC deep pair
+APC032,242.246,-2.71902,APC,1,70,38.0,70.0,7198.025614904468,38.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,Small APC - dark interior with sharp edge.
+APC033,240.4639,-0.95215,APC,1,70,89.0,70.0,5853.475507157115,89.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,"APC -- deep, ~70m"
+APC034,236.42,-13.6,APC,1,75,50.0,75.0,8845.13200000008,50.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC -- end chain deep
+APC035,237.9064,-18.10693,APC,1,75,76.0,75.0,5555.987591212003,76.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"APC, irregular heart shape in AA? ~ questionable, just a dark floor?"
+APC038,241.5786,-1.85474,APC,1,80,44.0,80.0,6795.896254629443,44.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC ~ squarish pit
+APC039,255.6328,7.1543,APC,1,80,71.0,80.0,6179.396128542213,71.0,4.0,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,APC
+APC040,238.8126,-19.40198,APC,1,90,82.0,90.0,5154.3903434748345,82.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"Hourglass -- merged APCs? 185 long,22 m narrowest"
+APC041,239.3748,-1.02046,APC,1,90,57.0,90.0,5266.8744780587085,57.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"APC, 85m, 52deep"
+APC042,239.54,-1.31,APC,1,90,100.0,90.0,5588.086079999996,100.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"deep, nochain, 109m"
+APC043,239.66,-1.36,APC,1,90,47.0,90.0,5671.180927999934,47.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC046,236.7245,-14.87268,APC,1,100,32.0,100.0,7503.239047585778,32.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC  nochain bearded -- no night thermal? 100m
+APC047,237.5336,-14.5343,APC,1,125,52.0,125.0,8495.284706526985,52.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC in chain
+APC048,245.75,-15.85,APC,1,110,102.0,110.0,6382.000000000028,102.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC
+APC049,241.2538,-13.53717,APC,1,105,80.0,105.0,8158.893016719632,80.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC irregular 105x176
+APC050,237.0449,-0.31885,APC,1,110,83.0,110.0,4387.812174420906,83.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC deep super pair
+APC051,238.8672,-13.6178,APC,1,110,50.0,110.0,9994.48586891234,50.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC nochain b=102
+APC052,239.64,-1.67,APC,1,110,55.0,110.0,5893.347807999997,55.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC053,239.9044,-11.35315,APC,1,110,66.0,110.0,11970.013335958174,66.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC near chains
+APC054,249.2178,0.33252,APC,1,109,67.0,109.0,8191.585159051172,67.0,4.0,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,"APC in graben, 120m irregular"
+APC055,252.7008,21.79194,APC,1,112,78.0,112.0,2063.136646928369,78.0,4.0,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,2 Channel edge mystery spots
+APC056,237.0503,-0.33545,APC,1,115,86.0,115.0,4390.513287063712,86.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC deep super pair
+APC057,238.309,-14.36212,APC,1,115,39.0,115.0,9023.929205154294,39.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC 144m  dark material inside? possible vent
+APC058,249.7645,1.43201,APC,1,115,82.0,115.0,7066.361588396597,82.0,4.0,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,APC ~120m?
+APC059,232.8127,2.04565,APC,1,118,71.0,118.0,2366.327909027087,71.0,4.0,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,APC - Type II
+APC060,237.0083,-11.72388,APC,1,120,68.0,120.0,10082.410565250177,68.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC062,236.51,-17.21,APC,1,130,85.0,130.0,5610.332096000008,85.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC nochain AA 150m
+APC063,236.51,-13.96,APC,1,125,39.0,125.0,8645.917440000083,39.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC nochain
+APC064,237.4902,-14.00342,APC,1,125,44.0,125.0,9270.284293088876,44.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC  in chain
+APC065,239.95,-13.92,APC,1,125,59.0,125.0,9194.339999999987,59.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC nochain
+APC066,238.7723,-14.06042,APC,1,130,45.0,130.0,9502.960253597295,45.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC067,239.7908,-14.84766,APC,1,130,47.0,130.0,8111.314054301008,47.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"APC inchain, 120m"
+APC068,240.54,-6.713,APC,1,130,93.0,130.0,11172.995372207844,93.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,"APC Irregular, 128x95"
+APC069,235.4121,-14.20947,APC,1,159,47.0,159.0,6993.456599351204,47.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,nochain
+APC070,239.4691,-0.91003,APC,1,95,67.0,95.0,5281.775214805769,67.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,Type I or II? No chain. Sloped upper rim above aperture.
+APC071,240.02,-13.84,APC,1,140,81.0,140.0,9170.734751999938,81.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC nochain
+APC072,240.32,-7.84,APC,1,170,72.0,170.0,15577.813919999637,72.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC
+APC076,235.4053,0.99561,APC,1,165,114.0,165.0,3779.778273793913,114.0,4.0,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,"APC, end of pit, inchain 162m"
+APC077,237.252,-13.07,APC,1,165,71.0,165.0,9960.303558912085,71.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC078,237.558,-14.507,APC,1,185,88.0,185.0,8535.851864765395,88.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC080,236.62,-12.6,APC,1,180,63.0,180.0,9648.69200000009,63.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"APC, nochain, on inflated tubeflow"
+APC081,238.1161,-18.901,APC,1,185,112.0,185.0,5284.435720029117,112.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC dark nochain
+APC082,239.02,-6.31,APC,1,185,99.0,185.0,10397.795360000064,99.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC083,239.53,-13.38,APC,1,190,82.0,190.0,9946.05734400002,82.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC084,248.5801,-0.45215,APC,1,190,87.0,190.0,8598.844785679366,87.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC -- 7th grd class
+APC086,240.55,-6.708,APC,1,215,161.0,215.0,11152.771583999922,161.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC -- dust mound under rim
+APC087,237.3879,-19.57495,APC,1,230,80.0,230.0,4832.088717480327,80.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC Elliot
+APC088,236.6821,-17.10645,APC,1,235,75.0,235.0,5701.9253314796215,75.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC 324m shallow?
+APC089,238.41,-18.55,APC,1,240,80.0,240.0,5486.468000000022,80.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"APC, AA, nochain"
+APC090,237.05,-10.59,APC,1,250,69.0,250.0,9430.484000000062,69.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC091,240.03,-6.52,APC,1,250,155.0,250.0,11076.346783999994,155.0,4.0,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,APC
+APC092,247.5439,17.27168,APC,1,275,167.0,275.0,2152.3130127767217,167.0,4.0,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Fanpit A
+APC093,239.21,-4.29,APC,1,285,132.0,285.0,6890.809248000087,132.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC096,237.56,-19.46,APC,1,475,124.0,475.0,4918.758528000004,124.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"Hayden, 540m nochain"
+APC100,234.9626,-8.11974,APC,1,130,80.0,130.0,4803.495872277255,80.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"135 x 90, depth may be wrong if interior is dark material."
+APC101,239.4024,-13.67523,APC,1,430,138.0,430.0,9739.170077016935,138.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"Very large type III - Upper cliffs, sloped lower walls."
+APC102,239.4213,-13.68152,APC,1,375,103.0,375.0,9725.125872747669,103.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"Very large type III - Upper cliffs, sloped lower walls."
+APC103,239.4382,-13.68353,APC,1,520,218.0,520.0,9716.05844992053,218.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"Very large type III - Upper cliffs, sloped lower walls."
+APC105,236.539,-13.08098,APC,1,190,47.0,190.0,9433.758146506902,47.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC106,139.1303,28.58124,APC,1,255,92.0,255.0,-1691.0113591014494,92.0,4.0,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,sloped floor?
+APC107,139.7143,28.58714,APC,1,160,34.0,160.0,-1121.1546703172617,34.0,4.0,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,in chain - Elysium
+APC108,139.9279,28.53275,APC,1,360,105.0,360.0,-844.006299956725,105.0,4.0,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,in chain - Elysium 3+
+APC109,139.3289,29.70285,APC,1,240,74.0,240.0,-2211.7738899867777,74.0,4.0,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,220x260ish
+APC110,139.6895,29.71901,APC,1,115,43.0,115.0,-2108.971706834366,43.0,4.0,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,near trough rim -- Elysium
+APC111,142.1093,29.26669,APC,1,160,55.0,160.0,-221.77781927783343,55.0,4.0,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,near Elysium ~160m
+APC112,147.5129,24.76074,APC,1,100,72.0,100.0,8914.272626013904,72.0,4.0,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,Good Elysium Type II APC
+APC113,147.9082,22.53269,APC,1,270,98.0,270.0,2388.7817604517245,98.0,4.0,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,Elysium APC
+APC114,148.7321,24.41968,APC,1,90,20.0,90.0,4066.266486273031,20.0,4.0,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,~90m - maybe TypeII
+APC115,149.9153,23.21488,APC,1,135,74.0,135.0,2037.4096584130791,74.0,4.0,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,Classic APC ~145m
+APC117,236.07,-13.94,APC,1,200,84.0,200.0,8069.842592000159,84.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"APC, Circe"
+APC118,238.131,-12.91895,APC,1,90,30.0,90.0,10480.84075461526,30.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC -- Small type II?
+APC119,236.5708,-6.75638,APC,1,250,101.0,250.0,6854.860156500407,101.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"APC irregular 250x450 trough, In spread-out chain,"
+APC120,237.5425,-14.52867,APC,1,175,88.0,175.0,8499.896235683094,88.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"APC in chain with Catalina, 105 deep,171 across"
+APC122,235.1589,-14.00238,APC,1,122,41.0,122.0,6756.961281444701,41.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,nochain
+APC123,236.8814,-11.86816,APC,1,210,57.0,210.0,9959.65834254647,57.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,chain
+APC124,234.8862,-14.66162,APC,1,250,72.0,250.0,6083.413135380588,72.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC125,239.3912,-14.9541,APC,1,137,36.0,137.0,8041.2433159081775,36.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC126,239.391,-14.95801,APC,1,125,38.0,125.0,8035.686656625476,38.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC127,235.4273,-13.75894,APC,1,105,50.0,105.0,7265.742538636668,50.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC128,255.8157,16.17691,APC,1,60,41.0,60.0,3238.299010711585,41.0,4.0,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,APC ~ 60m
+APC130,122.0461,21.52222,APC,1,110,41.0,110.0,-3801.719962321591,41.0,4.0,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,collapse pit kinda like an APC
+APC133,250.3825,30.53043,APC,1,140,70.0,140.0,3205.210420382471,70.0,4.0,30N240E,THEMIS Thermal Inertia Mosaic Quantitative 30N240E 100mpp,APC Lathrop contrib
+APC134,234.7664,-2.49139,APC,1,100,47.0,100.0,3991.384580088169,47.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC135,234.7219,-2.3743,APC,1,110,53.0,110.0,3945.684230877678,53.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC 110x80
+APC136,234.7186,-2.36801,APC,1,90,58.0,90.0,3942.217565018149,58.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC 90x75
+APC137,234.7136,-2.35385,APC,1,75,40.0,75.0,3935.52696483028,40.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,APC
+APC138,235.9404,-18.64916,APC,1,135,65.0,135.0,4637.3557538838,65.0,4.0,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"APC, dark, 135x90"
+APC139,250.4644,30.71753,APC,1,415,168.0,415.0,3158.243732677804,168.0,4.0,30N240E,THEMIS Thermal Inertia Mosaic Quantitative 30N240E 100mpp,Large ovoid APC 415x310 d=168  Lathrop contrib
+CC0021,255.4132,1.83636,end,0,,,,5393.70023218276,,3.8,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Large trough with overhang at end
+CC0093,255.9496,8.86151,lat,0,,,,7993.359018929486,,3.8,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,lateral candidate - overhanging ledge
+CC0713,161.1316,9.61115,lat,0,,,,-2976.493428345508,,3.8,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,Large lateral overhang
+CC0716,161.1048,9.65024,lat,0,,,,-2767.7879849696105,,3.8,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,cliff wall fracture intersect
+CC0718,161.1275,9.64604,lat,0,,,,-2766.82608090488,,3.8,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,cliff wall fracture intersect
+CC0722,161.12,9.61913,lat,0,,,,-2997.7841412647576,,3.8,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,cliff wall fracture intersect
+CC0723,161.1192,9.6189,lat,0,,,,-3004.2163733329826,,3.8,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,cliff wall fracture intersect
+CC0724,161.117,9.61935,lat,0,,,,-3014.2854723949795,,3.8,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,cliff wall fracture intersect
+CC0725,161.1184,9.6161,lat,0,,,,-3020.803277597778,,3.8,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,Cliff wall lateral tube candidate
+CC0727,276.3057,44.09782,lat,0,,,,1157.6978052195698,,3.8,30N240E,THEMIS Thermal Inertia Mosaic Quantitative 30N240E 100mpp,Cliff wall lateral tube candidate
+CC0730,161.5701,7.23542,lat,0,,,,-2648.197993115384,,3.8,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,cliff wall fracture intersect
+CC0732,161.5248,7.27509,lat,0,,,,-2647.597280016756,,3.8,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,Rim overhang lateral candidate
+CC0733,161.5213,7.27475,lat,0,,,,-2647.702568829406,,3.8,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,Rim overhang lateral candidate
+CC0742,226.5841,17.7379,lat,0,,,,20118.12978497277,,3.8,00N180E,THEMIS Thermal Inertia Mosaic Quantitative 00N180E 100mpp,Good lateral candidate in Olympus Mons caldera rim
+CC0832,155.0078,11.40808,lat,0,,,,-2343.50933210727,,3.8,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,Lateral fracture candidate in Cerberus Fossae
+CC0843,249.4994,23.26966,lat,0,,,,2961.06764618569,,3.8,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Pit wall lateral candidate near Olympica Fossae
+CC0844,249.4981,23.26611,lat,0,,,,2961.038242340695,,3.8,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Pit wall lateral candidate near Olympica Fossae
+CC0846,250.8204,28.02429,lat,0,,,,3524.925759418053,,3.8,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Pit wall candidate in Ceraunius Fossae -see stretch
+CC0847,250.8189,28.02674,lat,0,,,,3524.948608044478,,3.8,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Pit wall candidate in Ceraunius Fossae -see stretch
+CC0860,240.4131,46.41468,lat,0,,,,22.19955015613053,,3.8,30N240E,THEMIS Thermal Inertia Mosaic Quantitative 30N240E 100mpp,small channel wall lateral 6m
+CC0861,240.4133,46.41562,lat,0,,,,21.80454540088085,,3.8,30N240E,THEMIS Thermal Inertia Mosaic Quantitative 30N240E 100mpp,small channel wall lateral 3m
+CC0011,122.3054,21.50098,pit,0,,,,-3805.974900283408,,3.8,00N120E,THEMIS Thermal Inertia Mosaic Quantitative 00N120E 100mpp,large deep Hephaestus pit
+CC0845,253.0579,34.05775,pit,0,,,,3048.8463350623097,,3.8,30N240E,THEMIS Thermal Inertia Mosaic Quantitative 30N240E 100mpp,Ceraunius Fossae small candidate - 5 m
+CC0863,289.3419,38.19513,pit,0,,,,570.6289726698815,,3.8,30N240E,THEMIS Thermal Inertia Mosaic Quantitative 30N240E 100mpp,Deep dark small pit
+CC0865,289.3141,38.11926,pit,0,,,,515.3294220438895,,3.8,30N240E,THEMIS Thermal Inertia Mosaic Quantitative 30N240E 100mpp,Deep dark small pit
+CC0869,289.3145,38.24622,pit,0,,,,849.6263481523712,,3.8,30N240E,THEMIS Thermal Inertia Mosaic Quantitative 30N240E 100mpp,Interesting pit - almost looks excavated
+CC0891,246.9805,27.64392,pit,0,,,,2843.88328144721,,3.8,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Tharsis vent candidate
+CC0892,246.9785,27.64278,pit,0,,,,2843.7145946093165,,3.8,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Tharsis vent candidate
+CC0901,39.1812,26.27903,pit,0,,,,-2140.7793053349774,,3.8,00N000E,THEMIS Thermal Inertia Mosaic Quantitative 00N000E 100mpp,Candidate region for sublimation caves in past or present ice flows
+CC0015,236.6222,-6.66313,end,1,,,,6790.53700403946,,3.4,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,upper end of trough - impact?
+CC0025,240.8302,-6.68977,end,1,,,,11275.097953864575,,3.4,30S240E,THEMIS Thermal Inertia Mosaic Quantitative 30S240E 100mpp,"Pit at end of trough, possibly under overhang"
+CC0026,284.588,28.78819,end,1,,,,495.8101160810573,,3.4,00N240E,THEMIS Thermal Inertia Mosaic Quantitative 00N240E 100mpp,Kasei Fracture Tip Cave ~ strong ~ i=49
+CC0707,236.73,-13.51,end,1,,,,9300.379168000049,,3.4,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,End-of-channel. Possibly in continuous fracture or conduit.
+CC0097,238.553,-5.14594,lat,1,,,,7126.785374989165,,3.4,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,"interesting, in hillside"
+CC0167,233.4368,-3.68384,pit,1,,,,3320.506466978278,,3.4,30S180E,THEMIS Thermal Inertia Mosaic Quantitative 30S180E 100mpp,pit in trough floor center

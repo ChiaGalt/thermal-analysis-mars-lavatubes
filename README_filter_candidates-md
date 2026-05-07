@@ -1,0 +1,201 @@
+
+# README — Tharsis Lava Tube Candidate Filtering
+
+## Purpose
+
+This script filters the Mars cave/lava tube candidate catalog in order to obtain a clean list of candidate lava tubes located in the Tharsis region.
+The output shortlist will later be used for thermal analysis using THEMIS thermal inertia data.
+
+The goal is not to permanently discard candidates, but to create different filtering levels:
+
+1. all candidates in Tharsis
+2. candidates with relevant cave/lava-tube morphology
+3. high-priority candidates suitable for first thermal analysis
+
+This allows the analysis to remain both scientifically robust and traceable.
+
+---
+
+## Input files
+
+The script uses:
+
+```text
+Mars_Extended_Cave_Catalog.csv
+```
+
+if available.
+
+Otherwise, it uses:
+
+```text
+Mars_Cave_Catalog.csv
+```
+
+The extended catalog is preferred because it may contain additional information such as elevation.
+
+---
+
+## Main filtering logic
+
+### 1. Geographic filter: Tharsis region
+
+The script keeps candidates with:
+
+```text
+longitude between 230°E and 260°E
+latitude between -25° and +30°
+```
+
+This includes the main Tharsis volcanic province, including Arsia Mons, Pavonis Mons, Ascraeus Mons and surrounding volcanic terrains.
+
+Output:
+
+```text
+01_tharsis_all_candidates.csv
+```
+
+This file contains all candidates in the selected Tharsis region, without strict morphological filtering.
+
+---
+
+### 2. Morphological filter
+
+The script then keeps only candidate types considered more relevant for lava tube access or cave-like structures:
+
+```text
+sky
+APC
+pit
+end
+lat
+```
+
+Meaning:
+
+| TypeCode | Meaning                          | Why it is kept                             |
+| -------- | -------------------------------- | ------------------------------------------ |
+| sky      | skylight                         | direct possible lava tube opening          |
+| APC      | atypical pit crater              | possible collapse pit / cave entrance      |
+| pit      | pit candidate                    | possible vertical entrance                 |
+| end      | end-of-channel or trough feature | possible access point or collapsed conduit |
+| lat      | lateral entrance                 | possible side access into a tube/cavity    |
+
+Output:
+
+```text
+02_tharsis_good_morphology.csv
+```
+
+---
+
+### 3. Priority filter
+
+The script keeps only:
+
+```text
+Priority = 0 or 1
+```
+
+This means candidates considered more reliable or more interesting in the original catalog.
+
+Important: this does not mean that Priority 2 or 3 candidates are useless. It only means they are less suitable for the first robust analysis because they may be more ambiguous.
+
+Output:
+
+```text
+03_tharsis_high_priority_shortlist.csv
+```
+
+---
+
+### 4. Morphology score
+
+The script assigns a simple morphology score based on:
+
+* candidate type
+* priority
+
+The score is not a final scientific result.
+It is only a practical ordering tool to inspect the strongest candidates first.
+
+The score is computed as:
+
+```text
+morphology_score = 0.6 × type_score + 0.4 × priority_score
+```
+
+where skylights receive the highest type score because they are the most direct evidence of possible lava tube access.
+
+---
+
+## Output files
+
+After running the script, four CSV files are created:
+
+| File                                            | Meaning                                          |
+| ----------------------------------------------- | ------------------------------------------------ |
+| `01_tharsis_all_candidates.csv`                 | all candidates inside the Tharsis geographic box |
+| `02_tharsis_good_morphology.csv`                | Tharsis candidates with relevant morphologies    |
+| `03_tharsis_high_priority_shortlist.csv`        | high-priority candidates for first analysis      |
+| `04_tharsis_shortlist_for_thermal_analysis.csv` | compact table to use for THEMIS thermal analysis |
+
+The main file for the next step is:
+
+```text
+04_tharsis_shortlist_for_thermal_analysis.csv
+```
+
+---
+
+## Important note about excluded candidates
+
+The filtering is conservative for the first analysis, but not final.
+
+Candidates with TypeCode such as:
+
+```text
+srp, pin, crk, irr, flr
+```
+
+are not deleted. They remain available in:
+
+```text
+01_tharsis_all_candidates.csv
+```
+
+They can be reintroduced later if needed, especially if the thermal analysis shows interesting anomalies nearby.
+
+---
+
+## Next step after running the script
+
+After generating the shortlist, the next step is to extract thermal inertia values from the THEMIS `.cub` raster files.
+
+For each candidate, we will compute:
+
+```text
+TI_candidate
+TI_surrounding_mean
+Delta_TI = TI_candidate - TI_surrounding_mean
+```
+
+These values will allow comparison of lava tube candidates from a thermal stability point of view.
+
+---
+
+Dopo aver runnato il codice, fai questo:
+
+1. Apri `04_tharsis_shortlist_for_thermal_analysis.csv`
+2. Guarda quanti candidati sono rimasti.
+3. Controlla soprattutto le colonne:
+
+   * `label`
+   * `longitude`
+   * `latitude`
+   * `TypeCode`
+   * `Priority`
+   * `morphology_score`
+   * `Comment`
+
+Poi il prossimo step è convertire i file THEMIS `.cub` in `.tif` e usare Python per estrarre i valori termici sui candidati.
