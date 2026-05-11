@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Thermal Analysis and Mission-Oriented Selection of Martian Lava Tube Candidates
 
 ---
@@ -1008,11 +1007,8 @@ High values often indicate:
 
 ## 2. Thermal Anomaly
 
-Computed as:
+Computed as: $\Delta TI = TI_{\text{center}} - TI_{\text{surrounding}}$
 
-$$
-\Delta TI = TI_{center} - TI_{surrounding}
-$$
 Stored in:
 
 ```text
