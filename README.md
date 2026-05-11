@@ -248,9 +248,8 @@ High values often indicate:
 
 Computed as:
 
-$$
-\Delta TI = TI_{center} - TI_{surrounding}
-$$
+$\Delta TI = TI_{\text{center}} - TI_{\text{surrounding}}$
+
 Stored in:
 
 ```text
