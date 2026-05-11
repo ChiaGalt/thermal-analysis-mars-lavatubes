@@ -581,7 +581,7 @@ To solve the problem of overlapping points, the project generated regional zoom 
 
 # Arsia Mons / South Tharsis
 
-![Arsia South Tharsis](mission_selection_clear_visuals\05_region_zoom_Arsia___South_Tharsis.png)
+![Arsia South Tharsis](mission_selection_clear_visuals/05_region_zoom_Arsia___South_Tharsis.png)
 
 ---
 
