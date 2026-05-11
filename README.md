@@ -333,7 +333,7 @@ Positive anomalies are especially important because they may indicate:
 
 ---
 
-![Global Delta TI](thermal_maps/02_global_delta_TI.png)
+![Global Delta TI](02_global_delta_TI.png)
 
 ---
 
@@ -357,7 +357,7 @@ High thermal inertia regions may correspond to:
 
 ---
 
-![Global TI Center](thermal_maps/03_global_TI_center.png)
+![Global TI Center](03_global_TI_center.png)
 
 ---
 
@@ -382,7 +382,7 @@ and allowed direct visualization of the most interesting lava tubes.
 
 ---
 
-![Top 20 Thermal Candidates](thermal_maps/04_top20_thermal_candidates.png)
+![Top 20 Thermal Candidates](04_top20_thermal_candidates.png)
 
 ---
 
@@ -412,7 +412,7 @@ This helped compare:
 
 ---
 
-![Candidates by Morphology](thermal_maps/05_global_candidates_by_type.png)
+![Candidates by Morphology](05_global_candidates_by_type.png)
 
 ---
 
@@ -516,7 +516,7 @@ mission_selection_clear_visuals/02_top15_final_score.png
 
 ---
 
-![Top 15 Mission Candidates](mission_selection_clear_visuals/02_top15_final_score.png)
+![Top 15 Mission Candidates](02_top15_final_score.png)
 
 ---
 
@@ -543,7 +543,7 @@ It explains:
 
 ---
 
-![Score Breakdown](mission_selection_clear_visuals/03_top15_score_breakdown.png)
+![Score Breakdown](03_top15_score_breakdown.png)
 
 ---
 
@@ -570,7 +570,7 @@ often exhibit stronger local thermal signatures.
 
 ---
 
-![Delta TI vs Morphology](mission_selection_clear_visuals/04_top30_deltaTI_vs_morphology_labeled.png)
+![Delta TI vs Morphology](04_top30_deltaTI_vs_morphology_labeled.png)
 
 ---
 
@@ -582,31 +582,31 @@ To solve the problem of overlapping points, the project generated regional zoom 
 
 # Arsia Mons / South Tharsis
 
-![Arsia South Tharsis](mission_selection_clear_visuals\05_region_zoom_Arsia___South_Tharsis.png)
+![Arsia South Tharsis](05_region_zoom_Arsia___South_Tharsis.png)
 
 ---
 
 # Ascraeus / North Tharsis
 
-![Ascraeus North Tharsis](mission_selection_clear_visuals/05_region_zoom_Ascraeus___North_Tharsis.png)
+![Ascraeus North Tharsis]05_region_zoom_Ascraeus___North_Tharsis.png)
 
 ---
 
 # Elysium / Cerberus
 
-![Elysium Cerberus](mission_selection_clear_visuals/05_region_zoom_Elysium___Cerberus.png)
+![Elysium Cerberus](05_region_zoom_Elysium___Cerberus.png)
 
 ---
 
 # Olympus / Western Tharsis
 
-![Olympus Western Tharsis](mission_selection_clear_visuals/05_region_zoom_Olympus___Western_Tharsis.png)
+![Olympus Western Tharsis](05_region_zoom_Olympus___Western_Tharsis.png)
 
 ---
 
 # Pavonis / Central Tharsis
 
-![Pavonis Central Tharsis](mission_selection_clear_visuals/05_region_zoom_Pavonis___Central_Tharsis.png)
+![Pavonis Central Tharsis](05_region_zoom_Pavonis___Central_Tharsis.png)
 
 ---
 
